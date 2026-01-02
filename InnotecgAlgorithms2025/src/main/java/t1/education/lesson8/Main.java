@@ -13,8 +13,7 @@ public class Main {
 
         System.out.println("Введите строку для вычисления хеша.");
         String input = scanner.next();
-
-
+        
         MessageDigest sha256 = MessageDigest.getInstance("SHA-256");
         MessageDigest md5 = MessageDigest.getInstance("MD5");
 
