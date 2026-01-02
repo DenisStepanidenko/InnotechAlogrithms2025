@@ -1,4 +1,4 @@
-package lesson1.graphAdjList;
+package t1.education.lesson1.graphAdjList;
 
 import java.util.ArrayList;
 import java.util.List;

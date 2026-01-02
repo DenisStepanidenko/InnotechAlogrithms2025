@@ -1,4 +1,4 @@
-package lesson1.graphMatrix;
+package t1.education.lesson1.graphMatrix;
 
 import java.util.Arrays;
 
