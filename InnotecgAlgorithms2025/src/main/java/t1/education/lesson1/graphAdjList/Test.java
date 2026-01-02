@@ -1,6 +1,4 @@
-package lesson1.graphMatrix;
-
-import lesson1.graphAdjList.Graph;
+package t1.education.lesson1.graphAdjList;
 
 public class Test {
 

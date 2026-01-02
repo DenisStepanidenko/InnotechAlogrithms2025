@@ -1,4 +1,5 @@
-package lesson1.graphAdjList;
+package t1.education.lesson1.graphMatrix;
+
 
 public class Test {
 

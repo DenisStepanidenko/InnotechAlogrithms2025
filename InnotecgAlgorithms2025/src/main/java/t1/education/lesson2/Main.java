@@ -1,4 +1,4 @@
-package lesson2;
+package t1.education.lesson2;
 
 public class Main {
 
