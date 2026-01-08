@@ -5,6 +5,8 @@ out/
 
 .gradle
 ./InnotecgAlgorithms2025/build
+.idea
+./gradle
 
 ### Eclipse ###
 .apt_generated
