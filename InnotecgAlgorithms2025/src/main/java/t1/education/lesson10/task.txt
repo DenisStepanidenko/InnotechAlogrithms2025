@@ -1,0 +1,6 @@
+Vasya:5
+Petya:3
+Ania:5
+Kolya:
+Denis:3
+
