@@ -58,7 +58,7 @@ public class Main {
             System.out.println("Ошибка: " + e.getMessage());
         }
 
-        // Физический заказ (с другим заказом, т.к. дорогой ноутбук)
+        // Физический заказ
         System.out.println("Физический заказ (другой состав)");
         Order physicalOrder = new Order();
         physicalOrder.setAddress("ул. Ленина, д. 1");
